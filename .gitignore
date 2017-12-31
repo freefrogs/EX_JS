@@ -1,3 +1,7 @@
+style.css.map
+
+.sass-cache
+
 # Logs
 logs
 *.log
@@ -57,5 +61,4 @@ typings/
 # dotenv environment variables file
 .env
 
- style.css.map
- .sass-cache
+ 
