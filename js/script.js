@@ -8,6 +8,4 @@ function addOnClick(param) {
 	list.appendChild(element);
 }
 
-add.addEventListener('click', function(e) {
-	addOnClick();
-});
+add.addEventListener('click', addOnClick);
